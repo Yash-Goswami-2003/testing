@@ -8,5 +8,10 @@
         "name" : "Yash",
         "age" : 22,
         "gender" : "male"
+    },
+    {
+        "name" : "Pranjal",
+        "age" : 16,
+        "gender" : "male"
     }
 ]
